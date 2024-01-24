@@ -1,10 +1,11 @@
 # Hi, I'm Mary, and I like to make things.
 
-[![Blog](https://img.shields.io/badge/Blog-purple?logo=gatsby&logoColor=white&style=for-the-badge)](https://mary.codes) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maryknize/) 
-[![Twitter](https://img.shields.io/badge/Twitter-green?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/captainpainway) 
+[![Blog](https://img.shields.io/badge/Blog-teal?logo=gatsby&logoColor=white&style=for-the-badge)](https://mary.codes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maryknize/) 
+<a href="https://bsky.app/profile/mary.codes" rel="me">![Mastodon](https://img.shields.io/badge/Bluesky-blue?logo=bluesky&logoColor=white&style=for-the-badge)</a>
+<a href="https://graphics.social/@mary" rel="me">![Mastodon](https://img.shields.io/badge/Mastodon-purple?logo=mastodon&logoColor=white&style=for-the-badge)</a>
 [![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCcT64E5kKuemN95yKnmbh3w)
-[![TikTok](https://img.shields.io/badge/TikTok-hotpink?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@marycodes)
+
 
 I'm a Development Team Lead from the Orlando, FL area, specializing in full-stack development in JavaScript and PHP. I love experimenting with new languages and frameworks, creative coding, and sharing what I've learned.
 
