@@ -40,6 +40,9 @@ I'm a Development Team Lead from the Orlando, FL area, specializing in full-stac
 
 ### Favorite Blog Posts:
 
+#### [Making a static word of the day site with Google AI Studio and GitHub Actions](https://mary.codes/blog/programming/word_of_the_day_google_ai_studio/)
+An experiment using Google's Gemini Pro AI to generate new Japanese vocabulary words on a daily basis, with an automatic build step using GitHub Actions.
+
 #### [Creating a Wordle command line clone in Rust](https://mary.codes/blog/programming/creating_a_wordle_cli_in_rust/)
 Hopping on the Wordle craze a little too late, I decided to create a command-line Wordle clone in Rust called NOT THAT WORD GAME.
 
