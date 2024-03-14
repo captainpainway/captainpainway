@@ -40,6 +40,12 @@ I'm a Development Team Lead from the Orlando, FL area, specializing in full-stac
 
 ### Favorite Blog Posts:
 
+#### [Generating a 3D map with OpenStreetMap and A-Frame](https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/)
+Part 2 of my experiment with OSM data. This time, instead of a canvas, I'm going to render the data in A-Frame to visualize it in 3D.
+
+#### [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
+Using the Overpass API to read OSM data, parsing the data with Rust, and then drawing the map onto HTML5 canvas.
+
 #### [Making a static word of the day site with Google AI Studio and GitHub Actions](https://mary.codes/blog/programming/word_of_the_day_google_ai_studio/)
 An experiment using Google's Gemini Pro AI to generate new Japanese vocabulary words on a daily basis, with an automatic build step using GitHub Actions.
 
